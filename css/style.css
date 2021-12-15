@@ -1,0 +1,32 @@
+body {
+  background-color: #92967D;
+  font-size: 25px;
+  font-style: italic;
+}
+
+hr {
+  width: 10%;
+  border-width: 5px;
+  border-style: none none dotted;
+  color: grey;
+}
+
+.content {
+  max-width: 500px;
+  margin: auto;
+}
+
+img {
+  height: 500px;
+  border-radius: 50%;
+}
+h1{
+  color: #F2A154
+}
+
+:education{
+  font-style: strong;
+
+}
+h2, h3 {
+  color: #064663;
